@@ -12,6 +12,6 @@ jobs:
         uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url:
-            https://gitee.com/whitepaper233/PixGreat.git
+            git@gitee.com:whitepaper233/PixGreat.git
           ssh_private_key:
             ${{secrets.GITEESYNC}}
