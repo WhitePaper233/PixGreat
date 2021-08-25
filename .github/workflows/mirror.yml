@@ -14,4 +14,4 @@ jobs:
           target_repo_url:
             git@gitee.com:whitepaper233/PixGreat.git
           ssh_private_key:
-            ${{secrets.GITEESYNC}}
+            ${{ secrets.GITEESYNC }}
