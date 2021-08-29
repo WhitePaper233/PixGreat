@@ -13,7 +13,7 @@ A carefully chosen pixiv picture API repo.
 
 1. Get index from this link `https://raw.githubusercontent.com/WhitePaper233/PixGreat/main/indexs/%23<Tag>.json`
 
-   You can retrieve all available tags [here]([PixGreat/indexs at main · WhitePaper233/PixGreat (github.com)](https://github.com/WhitePaper233/PixGreat/tree/main/indexs)
+   You can retrieve all available tags [here](https://github.com/WhitePaper233/PixGreat/tree/main/indexs)
 
 2. Use the random function in your programming language to select a picture ID randomly
 
