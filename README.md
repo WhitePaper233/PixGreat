@@ -9,7 +9,7 @@
 
 ![License](https://img.shields.io/github/license/WhitePaper233/PixGreat?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/WhitePaper233/PixGreat?style=for-the-badge)
-![CollectionQuantity](https://img.shields.io/badge/CollectionQuantity-21-66ccff?style=for-the-badge)
+![CollectionQuantity](https://img.shields.io/badge/Collection%20Quantity-21-66ccff?style=for-the-badge)
 ![GiteeMirrorSyncingStatus](https://img.shields.io/github/workflow/status/WhitePaper233/PixGreat/GitHub%20Actions%20Mirror?label=Gitee%20Mirror%20Sync&style=for-the-badge)
 
 A carefully chosen pixiv picture API repo.
@@ -34,6 +34,7 @@ A carefully chosen pixiv picture API repo.
 
 Here is an example usage in Python. You can just download the codes in the example folder and add them to your codes
 
+`Python:`
 ```python
 import requests
 import random
