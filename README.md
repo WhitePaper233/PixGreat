@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](https://raw.githubusercontent.com/WhitePaper233/PixGreat/main/Banner.png)
 
 # PixGreat
 
