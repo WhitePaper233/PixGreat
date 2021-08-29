@@ -9,7 +9,7 @@
 
 ![License](https://img.shields.io/github/license/WhitePaper233/PixGreat?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/WhitePaper233/PixGreat?style=for-the-badge)
-![CollectionQuantity](https://img.shields.io/badge/CollectionQuantity-21-blue?style=for-the-badge)
+![CollectionQuantity](https://img.shields.io/badge/CollectionQuantity-21-66ccff?style=for-the-badge)
 ![GiteeMirrorSyncingStatus](https://img.shields.io/github/workflow/status/WhitePaper233/PixGreat/GitHub%20Actions%20Mirror?label=Gitee%20Mirror%20Sync&style=for-the-badge)
 
 A carefully chosen pixiv picture API repo.
