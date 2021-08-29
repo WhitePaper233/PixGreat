@@ -3,6 +3,7 @@
 # PixGreat
 
 ![BuildWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
+![UsesGit](https://forthebadge.com/images/badges/uses-git.svg)
 
 ![License](https://img.shields.io/github/license/WhitePaper233/PixGreat?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/WhitePaper233/PixGreat?style=for-the-badge)
