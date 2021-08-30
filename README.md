@@ -28,8 +28,13 @@ A carefully chosen pixiv picture API repo.
 
    ```json
    {
-       "Pixiv illust ID 1": ["PixGreatID"],
-   	"Pixiv illust ID 2": ["PixGreatID 1", "PixGreatID 2"]
+       "Pixiv illust ID 1": [
+           "PixGreatID"
+       ],
+       "Pixiv illust ID 2": [
+           "PixGreatID 1",
+           "PixGreatID 2"
+       ]
    }
    ```
 
