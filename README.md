@@ -60,7 +60,7 @@ If you are in China or other places where you can't visit GitHub stably, here is
 
 ## Example
 
-Here is an example usage in Python. You can just download the codes in the example folder and add them to your codes
+Here is an example usage in Python. You can just download the codes in the [example folder](https://github.com/WhitePaper233/PixGreat/tree/main/example) and add them to your codes
 
 `Python:`
 
